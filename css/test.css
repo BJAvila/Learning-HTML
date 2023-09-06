@@ -1,0 +1,27 @@
+body {
+	background: lightgoldenrodyellow;
+}
+h1 {
+	color: blue; 
+	font-family: calibri;
+}
+h2 {
+	color: pink; 
+	font-family: sans-serif;
+}
+h3 {
+	color: greenyellow;
+	font-family: cursive;
+}
+.big{
+font-size: 60px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.big.uppercase{
+color: red;
+}
+h1 span {
+color: violet;
+}
